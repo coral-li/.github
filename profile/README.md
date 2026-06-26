@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://ems.coral.li/img/coral_logo.svg" alt="Coral Logo" width="400">
+  <img src="https://app.coral.li/static/frontend/images/coral_logo_transparent.png" alt="Coral Logo" width="400">
   
   # Coral - Climate Action Platform
   

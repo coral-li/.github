@@ -1,59 +1,57 @@
-<div align="center">
-  <img src="https://app.coral.li/static/frontend/images/coral_logo_transparent.png" alt="Coral Logo" width="400">
-  
-  # Coral - Climate Action Platform
-  
-  [![Website](https://img.shields.io/badge/Website-coral.li-00A98F)](https://www.coral.li)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-coralclimate-0077B5)](https://linkedin.com/company/coralclimate)
-  [![X](https://img.shields.io/badge/X-@Coral__Climate-000000)](https://x.com/Coral_Climate)
-</div>
+<p align="center">
+  <a href="https://www.coral.li">
+    <img src="https://raw.githubusercontent.com/coral-li/.github/d6a603d74ac67d17c5972c2e4a7052b94a272458/profile/assets/coral-logo.svg" alt="Coral" width="180">
+  </a>
+</p>
 
-Coral is bringing clarity and trust to climate action through seamless carbon management solutions. Our platform simplifies carbon accounting, reporting, and offsetting to drive transparent and impactful climate strategies.
+<h1 align="center">Emissions accounting and ESG reporting, connected.</h1>
 
-## ✨ Our Solutions
+<p align="center">
+  Built in Dubai. Helping teams measure, disclose, and reduce their impact.
+</p>
 
-### 🌱 Emissions Management Solution (EMS)
-[End-to-end carbon management platform](https://www.coral.li/emissions-management-solution) featuring:
-- 🤖 AI-driven emissions tracking
-- 📊 Detailed analytics
-- 📝 Comprehensive reporting tools
-- 🔄 System integration capabilities
-- ✅ Compliance management
+<p align="center">
+  <a href="https://www.coral.li">Explore the platform</a> &nbsp;·&nbsp;
+  <a href="https://www.coral.li/book-your-demo">Book a demo</a> &nbsp;·&nbsp;
+  <a href="https://www.coral.li/faq">Platform FAQ</a>
+</p>
 
-### 🛒 E-commerce API
-[Seamlessly integrate carbon offsetting into your checkout process](https://www.coral.li/e-commerce-integrations):
-- 🔘 One-click carbon footprint offsetting
-- 🔌 Easy integration
-- 📈 Transparent impact tracking
-- 👥 Customer engagement tools
+Coral connects operational data to emissions calculations, ESG disclosures, and reduction planning—helping sustainability, finance, and operations teams work from shared evidence.
 
-## 🛠️ Technology Stack
+<p align="center">
+  <a href="https://www.coral.li/solutions/ems">
+    <img src="https://raw.githubusercontent.com/coral-li/.github/d6a603d74ac67d17c5972c2e4a7052b94a272458/profile/assets/dashboard.png" alt="Coral platform preview: emissions overview, category breakdown, and Scope 1, 2, and 3 trends" width="760">
+  </a><br>
+  <sub>Explore Coral’s emissions management platform.</sub>
+</p>
 
-Our solutions are built using modern technologies including:
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-- ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-- ![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F61?style=flat&logo=tensorflow&logoColor=white)
-- ![REST API](https://img.shields.io/badge/REST%20APIs-009688?style=flat&logo=fastapi&logoColor=white)
+## Measure. Disclose. Act.
 
-## 📚 Resources
+| Measure | Disclose | Act |
+| :--- | :--- | :--- |
+| Calculate **Scope 1–3 emissions** from operational data. | Connect **ESG disclosures** to supporting evidence. | Prioritize **reductions** and track progress. |
 
-- [Website](https://www.coral.li)
-- [Blog](https://www.coral.li/blog)
+[Emissions management](https://www.coral.li/solutions/ems) · [ESG reporting](https://www.coral.li/solutions/esg-reporting) · [Carbon offsets](https://www.coral.li/solutions/offset)
 
-## 📫 Contact
+## Build with Coral
 
-- **Email:** dev@coral.li
-- **Location:** Dubai, UAE
-- **Social Media:**
-  - [LinkedIn](https://linkedin.com/company/coralclimate)
-  - [X](https://x.com/Coral_Climate)
-  - [Instagram](https://instagram.com/coral_climate)
+Connect finance, procurement, and operations data through REST APIs and structured uploads. [Talk to our team about an integration](https://www.coral.li/contact-us).
+
+**Our stack:** Python · Django · Django Ninja · TypeScript · Vue · Nuxt
 
 ---
 
-<div align="center">
-  <sub>
-    <a href="https://www.coral.li/terms-and-conditions-of-use">Terms of Service</a> • 
-    <a href="https://www.coral.li/privacy-policy">Privacy Policy</a>
-  </sub>
-</div>
+<p align="center">
+  <a href="https://www.coral.li/blog">Insights</a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/company/coralclimate">LinkedIn</a>
+</p>
+
+<!-- Editorial sources (reviewed 2026-09-07):
+[Coral Company Identity and Mission](https://kb-mcp.coral.li/doc/public/company/coral-company-identity.md)
+[Full ESG Reporting Platform](https://kb-mcp.coral.li/doc/public/product/esg-reporting-platform.md)
+[API and Enterprise System Integration](https://kb-mcp.coral.li/doc/public/product/api-and-enterprise-integration.md)
+Public positioning and product links: https://www.coral.li/
+Stack verified in coral-core: carbon_backend/requirements.in, carbon_backend/carbon_backend/urls.py, ems-ui/package.json.
+Unmodified public brand and dashboard assets: coral-website/public/brand/logo.svg and public/ems_screens/dashboard_en.png.
+Asset URLs are pinned to the published asset commit so images resolve before the README is published.
+-->
